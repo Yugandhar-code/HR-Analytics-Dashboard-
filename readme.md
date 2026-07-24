@@ -2,6 +2,12 @@
 
 An interactive Human Resources Analytics Dashboard developed using Tableau to analyze employee demographics, workforce trends, departmental distribution, employee status, and salary patterns.
 
+## Live Dashboard
+
+View the interactive dashboard on Tableau Public:
+
+[View HR Analytics Dashboard on Tableau Public](https://public.tableau.com/app/profile/yugandhar.m2559/viz/HRAnalyticsDashboard_17848244259150/HRAnalysisDashboard)
+
 ## Dashboard Preview
 
 ![HR Analytics Dashboard](ScreenShots/HR-Analytics-Dashboard.png)
